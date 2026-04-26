@@ -1,4 +1,4 @@
-# README TUTORIAL
+# SPRING BOOT NOTES
 
 ## Spring MVC Architecture
 
